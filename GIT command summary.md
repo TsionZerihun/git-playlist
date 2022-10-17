@@ -8,7 +8,7 @@ Initialize a git repo in the current directory
 
 Add all untracked changed files to staging, ready to be committed
     
-    # git add -A
+    # git add -a
 
 Commit with a message
     
